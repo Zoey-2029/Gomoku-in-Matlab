@@ -13,9 +13,9 @@ Palyer plays the white chess while computer plays the black chess.
 
 ## Game mode
 There are three levels of difficulty in this game 
-* easy
+* easy: 
 In this mode, computer tries to stop the player from winning by randomly selecting one of the eight neighbors of the previously placed white chess.
-* medium
+* medium: 
 Computer scans the board and look for the longest sequence of white chess and block it. 
-* hard
+* hard: 
 Now the computer will try to build a longer sequnce of black chess while defensing against the player. 
