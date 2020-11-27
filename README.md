@@ -1,5 +1,4 @@
 # Gomoku-in-Matlab
-A gobang game written in Matlab
 
 Gomoku, also called Five in a Row, is an abstract strategy board game. 
 We implemented this game in Matlab.
